@@ -1,3 +1,8 @@
+##------------------------------------------------------------------------
+# writen by jimmy shen on March 24, 2017. Copyright (C) Jimmy Shen 
+
+
+##------------------------------------------------------------------------
 #Define problem, node, search class for the eight puzzle problem
 import math
 class Node():
